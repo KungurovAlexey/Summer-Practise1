@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Aw7eXQ6ZeXGzF28sZB0PBDnRAqqdq/c/O2wyvaWAyune3wzW+QC5TtNXcMx03yTV5kiODjuASdrKoG1LCMgrg==",
+  "success": true,
+  "projectFilePath": "E:\\ВШЭ\\Программирование\\Visual Studio\\Task6\\Task6\\Task6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\КунгуровАлексейИльич\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

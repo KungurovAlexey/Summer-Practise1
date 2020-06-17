@@ -1,0 +1,13 @@
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+E:\ВШЭ\Программирование\Visual Studio\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
